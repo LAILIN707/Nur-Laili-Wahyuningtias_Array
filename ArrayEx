@@ -1,0 +1,19 @@
+package arrayex;
+
+/**
+ *
+ * @author acer
+ */
+public class ArrayEx {
+public static void main(String[] args) {
+        int[] myArray;
+        
+        myArray = new int[20];
+        
+        char[] myArray2 = new char[100];
+        
+        double[] myArray3 = new double[5];
+        
+        System.out.println(myArray.length);
+}
+}
